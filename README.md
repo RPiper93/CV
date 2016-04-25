@@ -8,13 +8,14 @@ A fun and reliable Maths graduate from Durham University who enjoys designing th
 
 In April 2016, I completed the intensive 12-week [Makers Academy](http://www.makersacademy.com/employers/) course. As part of this course, I remotely pair programmed with other students daily to create projects using TDD, Ruby and Javascript.
 
-- [Thermostat](https://github.com/RPiper93/thermostat/tree/master) is a project I completed during my first week using JavaScript and jQuery.
-- [Recipedia](https://github.com/RPiper93/Recipes-project) is the final project I was involved with during the course. This web app was produced by team of four over two weeks using Rails and AngularJS.
+|**Github Repo** |**Description** | **Technology Stack** |**Main Contributions** |
+|------------|--------------|------------|------------|
+|[Thermostat](https://github.com/RPiper93/thermostat/tree/master) | Week 5 Ronin Challenge - A Single Page Web App for controlling temperature, using a Weather API to display the outside local temperature. |JavaScript, jQuery, CSS, Jasmine |Contributions across all technologies|
+|[Recipedia](https://github.com/RPiper93/Recipes-project)|Final Project for Ronin - A database-driven application that enabled users to search through recipes by individual ingredients. | AngularJS, Rails, JavaScript, BootStrap, Protractor, Karma, Capybara|Custom filters in AngularJS. Using Bootstrap to design and create the Front-End of the application.|
 
 #### Leadership
 
 As President and Musical Director of Mary's Mixed Voices, a University choir, I organised rehearsals and performances for the entire group.This included arranging separate rehearsals for vocal groups so that everyone felt prepared for important performances. We won 'Best Vocal Ensemble' in an Inter-College competition.
-
 
 #### Communication
 
@@ -26,7 +27,7 @@ I have been involved in many projects which involve teamwork. Most recently, I s
 
 #### Quick Learner
 
-In a recent Thomas T.S.T test, I acheive:
+In a recent Thomas T.S.T test, I acheived:
 
 - 99th Percentile in Perceptual Speed and Reasoning
 - 98th Percentile in Number Speed & Accuracy
@@ -46,12 +47,12 @@ After using R during my studies, I spent the summer after graduation looking int
 
 #### St Mary's College, Durham University (2011 to 2015)
 
-- Mathematics, especially Statistics
+- Mathematics, with a focus on Statistics
 - BSc Class II Division 2 (Honours)
 
 ## Experience
 
-**Her Majesty's Revenue and Customs** (Nov 2015 to Dec 2015)  
-*Work Placement*  
-**Tenteleni** (July 2014 to September 2014)  
+**Her Majesty's Revenue and Customs** (Nov 2015 to Dec 2015)
+*Work Placement*
+**Tenteleni** (July 2014 to September 2014)
 *Project Volunteer in South Africa*
