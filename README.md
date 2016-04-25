@@ -51,7 +51,7 @@ After using R during my studies, I spent the summer after graduation looking int
 
 ## Experience
 
-**Her Majesty's Revenue and Customs** (Nov 2015 to Dec 2015)
+**Her Majesty's Revenue and Customs** (Nov 2015 to Dec 2015)  
 *Work Placement*
-**Tenteleni** (July 2014 to September 2014)
+**Tenteleni** (July 2014 to September 2014)  
 *Project Volunteer in South Africa*
